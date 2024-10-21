@@ -1,0 +1,8 @@
+@import url('./fonts.css');
+#title {
+    font-family: 'sixtyfour';
+}
+
+.roboto  {
+    font-family: 'roboto';
+}

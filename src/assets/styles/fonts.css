@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'sixtyfour';
+    src: url('../fonts/Sixtyfour_Convergence/static/SixtyfourConvergence-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'roboto';
+    src: url('../fonts//Roboto//Roboto-Regular.ttf') format('truetype');
+}
