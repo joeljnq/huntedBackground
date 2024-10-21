@@ -11,7 +11,7 @@ export const Filter: React.FC<props> = ({
 }) => {
   return (
     <div className="lg:max-w-xs mx-auto max-w-sm">
-      <p className="text-pretty">You can choose one background  or write a custom prompt </p>
+      <p className="text-pretty mb-3">You can choose one background  or write a custom prompt </p>
       <select
         className="py-3 px-4 pe-9 block w-full border-gray-200 rounded-lg text-sm focus:border-blue-500 focus:ring-blue-500 disabled:opacity-50 disabled:pointer-events-none dark:bg-neutral-900 dark:border-neutral-700 dark:text-neutral-400 dark:placeholder-neutral-500 dark:focus:ring-neutral-600"
         onChange={(e) => onChangeSelected(e.target.value)}

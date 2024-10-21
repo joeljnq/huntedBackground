@@ -9,8 +9,8 @@ import '../assets/styles/title.css'
 
 export const LandingPage: React.FC = () => {
   return (
-      <div className="container bg-gradient-to-b max-w-full from-black to-gray-900/90 min-h-screen lg:py-40">
-        <header className="text-center ">
+      <div className="container bg-gradient-to-b max-w-full from-black to-gray-900/90 min-h-screen lg:py-40 py-32">
+        <header className="text-center max-w-full">
           <h1 id="title" className=" lg:text-4xl text-xl text-white pt-20">
             HauntedBackground
           </h1>
