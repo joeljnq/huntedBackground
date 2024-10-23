@@ -13,6 +13,7 @@
   }
   
   .comparison-slider {
+    margin: auto;
     max-width: 80%;
     height: 94vh;
     position: relative;

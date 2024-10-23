@@ -103,7 +103,7 @@ export default function UploadImage() {
   return (
     <div className="container bg-gradient-to-b max-w-full from-black to-gray-900/90 min-h-screen ">
     <header className="max-w-full">
-      <h1 className="lg:text-3xl text-xl  text-center font-bold p-4 font-sixtyfour">HuntedBackground</h1>
+      <h1 className="lg:text-3xl text-xl  text-center font-bold p-4 font-sixtyfour">HauntedBackground</h1>
     </header>
       <main className="font-roboto">
         <Filter
